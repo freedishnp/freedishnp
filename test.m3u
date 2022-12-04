@@ -75,9 +75,6 @@ http://103.213.31.80:80/iptvlivestream/netCHFOUR1500.stream/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="104" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/64/image" group-title="Undefined", Indigenous Television
 http://103.213.31.80:80/iptvlivestream/Indigenousfallback.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="600" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/66/image" group-title="Undefined", J MUSIC HD
-http://103.213.31.80:80/iptvlivestream/netJmusic1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="868" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/70/image" group-title="Undefined", VOA HD
 http://103.213.31.80:80/iptvlivestream/netVOA1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -411,17 +408,8 @@ http://103.213.31.80:80/iptvlivestream/netCGTNDOC1500.stream/playlist.m3u8?wmsAu
 #EXTINF:-1 tvg-id="205" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/362/image" group-title="Undefined", Times Now
 http://103.213.31.80:80/iptvlivestream/netTIMESNOW1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="146" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/373/image" group-title="Undefined", Bhairahawa TV
-http://103.213.31.80:80/iptvlivestream/netBhairahawa1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="605" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/388/image" group-title="Undefined", MTV Beats HD
 http://103.213.31.80:80/iptvlivestream/netMTVBEATSHD1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="123" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/397/image" group-title="Undefined", Rapti Darpan HD
-http://103.213.31.80:80/iptvlivestream/netRAPTITV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="172" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/398/image" group-title="Undefined", Omkar Television
-http://103.213.31.80:80/iptvlivestream/Omkartv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="114" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/399/image" group-title="Undefined", Mithila TV HD
 http://103.213.31.80:80/iptvlivestream/netMithilatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -431,12 +419,6 @@ http://103.213.31.80:80/iptvlivestream/netEduTV1500.stream/playlist.m3u8?wmsAuth
 
 #EXTINF:-1 tvg-id="65" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/406/image" group-title="Undefined", Yoho TV HD
 http://103.213.31.80:80/iptvlivestream/netYohoTv1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="143" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/409/image" group-title="Undefined", Moonlight TV
-http://103.213.31.80:80/iptvlivestream/netANNATv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="109" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/418/image" group-title="Undefined", Universal TV HD
-http://103.213.31.80:80/iptvlivestream/aranikotv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="607" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/421/image" group-title="Undefined", M Tunes Plus
 http://103.213.31.80:80/iptvlivestream/netMtunesHd1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -462,9 +444,6 @@ http://103.213.31.80:80/iptvsports/netFIGHTSPORTSHD1500.stream/playlist.m3u8?wms
 #EXTINF:-1 tvg-id="419" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/487/image" group-title="Undefined", B4U Movies APAC
 http://103.213.31.80:80/iptvlivestream/netB4UASIAPACIFIC1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/489/image" group-title="Undefined", My TV
-http://103.213.31.80:80/iptvlivestream/netMyTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="110" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/493/image" group-title="Undefined", Newa TV HD
 http://103.213.31.80:80/iptvlivestream/NewaTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -477,9 +456,6 @@ http://103.213.31.80/low-latency/ActionSports/playlist.m3u8?wmsAuthSign=c2VydmVy
 #EXTINF:-1 tvg-id="132" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/502/image" group-title="Undefined", Birat Television
 http://103.213.31.80:80/iptvlivestream/netBIRATTV1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="148" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/522/image" group-title="Undefined", Lumbini TV HD
-http://103.213.31.80:80/iptvlivestream/netLumbiniTv1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="151" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/527/image" group-title="Undefined", Suryodaya Television 
 http://103.213.31.80:80/iptvlivestream/SuryadayaTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -491,12 +467,6 @@ http://103.213.31.80:80/iptvlivestream/netTvBirgunjHD.stream/playlist.m3u8?wmsAu
 
 #EXTINF:-1 tvg-id="709" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/542/image" group-title="Undefined", Disney Channel
 http://103.213.31.80:80/iptvlivestream/netDISNEYCHANNEL1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="125" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/548/image" group-title="Undefined", Mukundasen HD
-http://103.213.31.80:80/iptvlivestream/netMukundaSenTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="147" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/553/image" group-title="Undefined", TV 1 HD
-http://103.213.31.80:80/iptvlivestream/tv1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="902" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/562/image" group-title="Undefined", Deep TV
 http://103.213.31.80:80/iptvlivestream/netDeepTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -515,12 +485,6 @@ http://103.213.31.80:80/iptvlivestream/netBagmatiTV.stream/playlist.m3u8?wmsAuth
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/597/image" group-title="Undefined", Gorkha TV HD
 http://103.213.31.80:80/iptvlivestream/GorkhaTvHD.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="142" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/606/image" group-title="Undefined", Sajha TV
-http://103.213.31.80:80/iptvlivestream/sajhatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="139" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/612/image" group-title="Undefined", Tharu Television
-http://103.213.31.80:80/iptvlivestream/netTharuTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="314" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/617/image" group-title="Undefined", Disney International HD
 http://103.213.31.80:80/iptvlivestream/netDisneyIntHD.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -579,9 +543,6 @@ http://103.213.31.80:80/iptvlivestream/netStarMoviesHD.stream/playlist.m3u8?wmsA
 #EXTINF:-1 tvg-id="407" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/718/image" group-title="Undefined", Star Movies Select HD
 http://103.213.31.80:80/iptvlivestream/netStarMoviesSelectHD.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="903" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/743/image" group-title="Undefined", Dharma Television
-http://103.213.31.80:80/iptvlivestream/netDharmaTvNep.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="712" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/751/image" group-title="Undefined", Sonic Nickelodeon
 http://103.213.31.80:80/iptvlivestream/netSonicNick1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -600,9 +561,6 @@ http://103.213.31.80:80/iptvlivestream/netStarBharatSD1500.stream/playlist.m3u8?
 #EXTINF:-1 tvg-id="416" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/775/image" group-title="Undefined", Star Movies
 http://103.213.31.80:80/iptvlivestream/netStarMoviesSD1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="165" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/776/image" group-title="Undefined", M Star
-http://103.213.31.80:80/iptvlivestream/netMstarTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="57" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/777/image" group-title="Undefined", Makalu TV HD
 http://103.213.31.80:80/iptvlivestream/netMakaluTvHD.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -611,12 +569,6 @@ http://103.213.31.80:80/iptvlivestream/netJanaSanchar.stream/playlist.m3u8?wmsAu
 
 #EXTINF:-1 tvg-id="61" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/784/image" group-title="Undefined", Kantipur Cineplex HD
 http://103.213.31.80:80/iptvlivestream/netKANTIPURCINEPLEX1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="167" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/787/image" group-title="Undefined", RAY TV HD
-http://103.213.31.80:80/iptvlivestream/BijayKilla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="152" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/792/image" group-title="Undefined", Aam Nepali TV HD
-http://103.213.31.80:80/iptvlivestream/AamNepaliTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="222" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/799/image" group-title="Undefined", News 18
 http://103.213.31.80:80/iptvlivestream/netIBN71500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -627,21 +579,6 @@ http://103.213.31.80:80/iptvlivestream/netGALAXY1500.stream/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="155" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/805/image" group-title="Undefined", Prabhu TV HD
 http://103.213.31.80:80/iptvlivestream/netPrabhuTv1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="170" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/819/image" group-title="Undefined", Tilotamma HD
-http://103.213.31.80:80/iptvlivestream/netTillotamaTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="169" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/822/image" group-title="Undefined", Janaki TV HD
-http://103.213.31.80:80/iptvlivestream/JanakiTvHD.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="171" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/830/image" group-title="Undefined", Devdaha TV
-http://103.213.31.80:80/iptvlivestream/netDevDaha1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="175" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/836/image" group-title="Undefined", City One HD
-http://103.213.31.80:80/iptvlivestream/netCity1HD1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="176" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/839/image" group-title="Undefined", Samata TV
-http://103.213.31.80:80/iptvlivestream/netSamataHD1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="80" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/842/image" group-title="Undefined", Him Shikhar TV
 http://103.213.31.80:80/iptvlivestream/netHimShikharTV1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -651,15 +588,6 @@ http://103.213.31.80:80/iptvlivestream/netAakashGangaTV1500.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="178" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/863/image" group-title="Undefined", Panchali TV
 http://103.213.31.80/iptvlivestream/netPanchaliTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
-#EXTINF:-1 tvg-id="1001" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/866/image" group-title="Undefined", TEST SELECT HD 1
-http://202.79.40.217/low-latency/srt-gw-edge/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="1002" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/869/image" group-title="Undefined", TEST SELECT HD 2
-http://202.79.40.217/low-latency/2_Select1HD-test/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="1005" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/872/image" group-title="Undefined", TEST TEN 1 HD
-http://202.79.40.235/low-latency/2_Select1HD-test/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
 #EXTINF:-1 tvg-id="179" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/875/image" group-title="Undefined", A News HD
 http://103.213.31.80:80/iptvlivestream/netAnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
@@ -668,9 +596,6 @@ http://103.213.31.80:80/iptvlivestream/netSPACE4K.stream/playlist.m3u8?wmsAuthSi
 
 #EXTINF:-1 tvg-id="181" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/882/image" group-title="Undefined", Pokhara TV HD
 http://103.213.31.80:80/iptvlivestream/netPokharaTV1500.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="182" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/890/image" group-title="Undefined", Maulakalika HD
-http://103.213.31.80:80/iptvlivestream/MaulaKalikaHd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="183" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/893/image" group-title="Undefined", Saptakoshi TV
 http://103.213.31.80:80/iptvlivestream/netSaptakoshiTv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
@@ -695,12 +620,6 @@ http://103.213.31.80/iptvlivestream/DibyaDarshanDhading/playlist.m3u8?wmsAuthSig
 
 #EXTINF:-1 tvg-id="190" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/916/image" group-title="Undefined", Madhyabindu TV
 http://103.213.31.80/iptvlivestream/netMadhyaBindu.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="191" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/931/image" group-title="Undefined", Nepa TV
-http://103.213.31.80/iptvlivestream/netNepaTV.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/934/image" group-title="Undefined", FIFA WC  Info
-http://103.213.31.80/iptvlivestream/Payment.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6MTE6MzggQU0maGFzaF92YWx1ZT1kVVY4ajc4eVEvY2o0ZTRRRUFFUXFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPWV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSlNVekkxTmlKOS5leUpsZUhBaU9qRTJOekkzTVRFNE5UVXNJbk4xWW5OamNtbGlaWEpmYVdRaU9pSTBOell6T1RjMElpd2ljM1JpSWpvaU1EQXlNalpFUVVSRVFVSkNJbjAudHpQaGNUbkM1MjZHUm5mRUljMXZoay1wbmRvVzRGQ25EQmc5OGM0U244OA==
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/925/image" group-title="Undefined", Himalaya PREMIUM FHD
 http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
